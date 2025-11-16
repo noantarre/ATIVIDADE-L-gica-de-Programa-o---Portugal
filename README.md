@@ -1,63 +1,49 @@
-📘 Atividades – Vetores (Generation Brasil)
+📘 Exercício Final – Vetores (Generation Brasil)
 
-Este repositório contém os códigos desenvolvidos para os exercícios da sessão de Vetores do curso da Generation Brasil.
-Todos os algoritmos foram escritos em Portugol, utilizando o Portugol Studio.
+Este repositório contém minha solução para o Exercício Final de Vetores, desenvolvido em Portugol como parte do bootcamp Generation Brasil – Desenvolvedor Java Fullstack.
 
-📝 Descrição da atividade
+📝 Descrição do Exercício
 
-Nesta entrega, foi solicitado escolher um dos exercícios da lista de Vetores e implementá-lo seguindo as boas práticas da Generation:
+O desafio consiste em ler 10 números inteiros e armazená-los em um vetor.
+Depois disso, o programa deve exibir:
 
-Uso de laços de repetição
+✔️ 1. Elementos nos índices ímpares
 
-Laços condicionais (if/else)
+Ex.: posições 1, 3, 5, 7, 9
 
-Entrada e saída de dados
+✔️ 2. Elementos do vetor que são pares
+✔️ 3. A soma de todos os elementos
+✔️ 4. A média dos valores
 
-Manipulação de vetores
+Observação: no Portugol, quando a média envolve números inteiros, o resultado é arredondado automaticamente.
 
-Organização e clareza no código
-
-Além disso, cada exercício deveria ser enviado ao GitHub dentro de uma pasta específica.
-
-📌 Exercícios Resolvidos
-🔹 Exercício 1 – Ordenação em ordem decrescente
-
-O algoritmo recebe 10 números inteiros digitados pelo usuário, armazena em um vetor e, em seguida, ordena todos os valores em ordem decrescente, exibindo o resultado final na tela.
-
-🔹 Exercício 2 – Informações sobre o vetor
-
-O algoritmo lê 10 números inteiros e mostra:
-
-Os elementos nos índices ímpares
-
-Os números pares contidos no vetor
-
-A soma de todos os valores
-
-A média dos elementos (real)
-
-Este exercício trabalha leitura de dados, condições e repetição.
-
-📂 Tecnologias utilizadas
-
-Portugol Studio
-
-Lógica de Programação
-
-Estruturas condicionais
-
-Laços de repetição
+🧠 Conteúdos trabalhados
 
 Vetores
 
-🚀 Como executar
+Entrada e saída de dados
 
-Abra o Portugol Studio (versão offline ou on-line).
+Estruturas condicionais (se)
 
-Copie o conteúdo do arquivo .por.
+Laços de repetição (para)
 
-Rode o programa usando Executar → Iniciar.
+Operações matemáticas
+
+🛠️ Como executar
+
+Abra o Portugol Studio (ou Portugol WebStudio).
+
+Copie e cole o código do arquivo .por.
+
+Execute o programa no botão "Iniciar".
+
+Insira os 10 valores conforme solicitado.
+
+📂 Estrutura do repositório
+📁 exercicio-final-vetores
+│
+└── 📄 exercicio_final.por   // Código feito no Portugol Studio
 
 👤 Autor
 
-Projeto desenvolvido como parte do programa Generation Brasil – Desenvolvedor Java Fullstack.
+Atividade desenvolvida por um estudante da Generation Brasil, como parte dos estudos de Lógica de Programação.
