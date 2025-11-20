@@ -47,3 +47,7 @@ Insira os 10 valores conforme solicitado.
 👤 Autor
 
 Atividade desenvolvida por um estudante da Generation Brasil, como parte dos estudos de Lógica de Programação.
+
+
+<img width="1903" height="996" alt="image" src="https://github.com/user-attachments/assets/5e9225fe-cfac-4bd9-a243-11b1ba0698cf" />
+
